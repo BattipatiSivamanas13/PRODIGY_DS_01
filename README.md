@@ -10,3 +10,7 @@ Task 1 improved my ability to create visualizations like bar charts and histogra
 
 # Connect with Me
 Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
+
+# Profile
+linkedin.com/in/battipati-sivamanas-74982b233
+
